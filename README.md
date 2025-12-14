@@ -19,7 +19,7 @@
 •	US, India are the significant contributor in the platform with 6272 contents.
 
 
-# ** Content Analysis **
+# **Content Analysis**
 
 •	War and drama has the highest hit to flops ratio of 1.96 and dram 1.56 hence this genre are more successful.
 
@@ -28,13 +28,13 @@
 •	Tmdb popularity of content has increased till 2000s but after that there is dip in the popularity among the content.
 
 
-# ** Actor ** 
+# **Actor** 
 •	George gabby has highest movies with 49 average popularity 2, flops to hits ratio is 0.53 and imdb score of movies, popularity have increasing growth trend.
 
 •	Roy Rogers has 45 movies and but decreasing trend in hits to flop ratio, popularity 
 
 
-# ** Business suggestions and recommendations **
+# **Business suggestions and recommendations**
 
 •	Increase investment in high-rated genres like Documentary, History, and Reality to boost user satisfaction and engagement.
 
